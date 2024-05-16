@@ -1,0 +1,2 @@
+- telos nezetben a reset fiters es sort gombok szovegenek meretet lejjebb venni
+- telos nezetben a lapozot az oldal aljatol feljebb hozni
