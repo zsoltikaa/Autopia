@@ -238,6 +238,7 @@ function sortCarsByPrice(sortButton) {
     }
     renderCars(filteredCars);
     isAscending = !isAscending;
+    document.getElementById('resetFilters').disabled = false;
 }
 
 function resetFilters() {

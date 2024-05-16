@@ -400,16 +400,16 @@ input:focus, input.form-control:focus, select:focus {
 
 @media (max-width: 991px) {
     body {
-      font-size: 12px;
+        font-size: 12px;
     }
 
-    .car-img{
+    .car-img {
         width: 100%;
         border-radius: 20px 20px 0 0;
         border-bottom: 1px solid var(--bordercolor);
     }
 
-    .title{
+    .title {
         width: 100%;
         font-size: 16px;
         font-weight: 600;
@@ -417,4 +417,4 @@ input:focus, input.form-control:focus, select:focus {
         border-bottom: 1px solid var(--bordercolor);
         text-align: center;
     }
-  }
+}
