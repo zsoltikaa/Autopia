@@ -418,8 +418,5 @@ input:focus, input.form-control:focus, select:focus {
         border-bottom: 1px solid var(--bordercolor);
         text-align: center;
     }
-    .pagination-container {
-        margin-bottom: 50px;
-    }
-
+    
 }

@@ -174,7 +174,7 @@ function renderCars(cars, currentPage = 1, carsPerPage = 10) {
 }
 
 function updatePagination(totalCars, currentPage, carsPerPage) {
-    let maxDisplayedPages = 6;
+    let maxDisplayedPages = window.innerWidth <= 991 ? 3 : 6;
     const totalPages = Math.ceil(totalCars / carsPerPage);
     const paginationContainer = document.querySelector(".pagination");
 
