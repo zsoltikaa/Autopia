@@ -1,3 +1,1 @@
-- telos nezetben a lapozot az oldal aljatol feljebb hozni
-- dark/light mode switch
 - nyelv valaszto

@@ -715,40 +715,6 @@
         "documents": true
     },
     {
-        "url": "https://file.joautok.hu/car-for-sale-images/500x375/auto/196521511jpg_az0xrsvu.jpeg",
-        "brand": "Jeep",
-        "model": "Renegade",
-        "variant": "BU",
-        "year": 2017,
-        "type": "SUV",
-        "condition": "used",
-        "capacity": 1368,
-        "performance": 170,
-        "km": 62000,
-        "fuel": "petrol",
-        "contact": "+36 30 756 9816",
-        "price": 14800000,
-        "transmission": "automatic",
-        "documents": true
-    }, 
-    {
-        "url": "https://file.joautok.hu/car-for-sale-images/500x375/auto/196521511jpg_az0xrsvu.jpeg",
-        "brand": "Jeep",
-        "model": "Renegade",
-        "variant": "BU",
-        "year": 2017,
-        "type": "SUV",
-        "condition": "used",
-        "capacity": 1368,
-        "performance": 170,
-        "km": 62000,
-        "fuel": "petrol",
-        "contact": "+36 30 756 9816",
-        "price": 14800000,
-        "transmission": "automatic",
-        "documents": true
-    },
-    {
         "url": "https://www.tesla.com/sites/default/files/modelsx-new/social/model-s-hero-social.jpg",
         "brand": "Tesla",
         "model": "Model S",
@@ -762,23 +728,6 @@
         "fuel": "electric",
         "contact": "+36 30 756 9816",
         "price": 30000000,
-        "transmission": "automatic",
-        "documents": true
-    },
-    {
-        "url": "https://ev-database.org/img/auto/Kia_Niro_EV/Kia_Niro_EV-01.jpg",
-        "brand": "Kia",
-        "model": "Niro EV",
-        "variant": "DE",
-        "year": 2020,
-        "type": "SUV",
-        "condition": "new",
-        "capacity": 0,
-        "performance": 150,
-        "km": 0,
-        "fuel": "electric",
-        "contact": "+36 30 756 9816",
-        "price": 17000000,
         "transmission": "automatic",
         "documents": true
     },
@@ -1412,7 +1361,7 @@
         "documents": true
     },
     {   
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/2012_Audi_A3_8P_MY12_1.8_TFSI_Ambition_Sportback_5-door_hatchback_2012-09-01.jpg/1024px-2012_Audi_A3_8P_MY12_1.8_TFSI_Ambition_Sportback_5-door_hatchback_2012-09-01.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Audi_A3_Sportback_TDI_Ambition_%288PA%2C_3._Facelift%29_%E2%80%93_Heckansicht%2C_3._M%C3%A4rz_2012%2C_Ratingen.jpg",
         "brand": "Audi",
         "model": "A3",
         "variant": "Ambition",
@@ -1429,7 +1378,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2018_Audi_A4_Sport_Quattro_2.0_Front.jpg/1024px-2018_Audi_A4_Sport_Quattro_2.0_Front.jpg",
+        "url": "https://www.carsoup.com/blog/content/images/2018/04/18_audi_a4_sedan_tfsi_quattro_00500.jpg",
         "brand": "Audi",
         "model": "A4",
         "variant": "Sport Quattro",
@@ -1446,7 +1395,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Audi_A6_C5_sedan_front_20080409.jpg/1024px-Audi_A6_C5_sedan_front_20080409.jpg",
+        "url": "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2c7e2c39-91a7-4c4f-b2f4-4b6138673872/30a3fa4f-a9c3-4923-bc6a-3225b4bfda6a.png",
         "brand": "Audi",
         "model": "A6",
         "variant": "Quattro",
@@ -1463,7 +1412,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/2017_Audi_Q7_S_line_Quattro_3.0_Front.jpg/1024px-2017_Audi_Q7_S_line_Quattro_3.0_Front.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/2017_Audi_Q7_S_Line_TDi_Quattro_Automatic_3.0.jpg",
         "brand": "Audi",
         "model": "Q7",
         "variant": "S line",
@@ -1480,7 +1429,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Audi_TT_8N_Coupe_front_20081213.jpg/1024px-Audi_TT_8N_Coupe_front_20081213.jpg",
+        "url": "https://hips.hearstapps.com/autoweek/assets/s3fs-public/902812689.jpg",
         "brand": "Audi",
         "model": "TT",
         "variant": "Coupe",
@@ -1497,7 +1446,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Audi_A1_Sportback_1.4_TFSI_Ambition_%E2%80%93_Frontansicht%2C_19._Mai_2012%2C_Wuppertal.jpg/1024px-Audi_A1_Sportback_1.4_TFSI_Ambition_%E2%80%93_Frontansicht%2C_19._Mai_2012%2C_Wuppertal.jpg",
+        "url": "https://media.drive.com.au/obj/tx_rs:auto:1607:904:1,q:50/caradvice/private/c89ce26370cafe289628a0308bf4fa89",
         "brand": "Audi",
         "model": "A1",
         "variant": "Sportback",
@@ -1514,7 +1463,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2013_Audi_A5_Sportback_TDi_Quattro_S_Line_Black_Edition_2.0_Front.jpg/1024px-2013_Audi_A5_Sportback_TDi_Quattro_S_Line_Black_Edition_2.0_Front.jpg",
+        "url": "https://assets.adac.de/image/upload/v1/Autodatenbank/Fahrzeugbilder/im02645-1-audi-a5.jpg",
         "brand": "Audi",
         "model": "A5",
         "variant": "Sportback",
@@ -1531,7 +1480,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Audi_Q3_2.0_TFSI_quattro_S_line_%28Facelift%29_%E2%80%93_Frontansicht%2C_16._April_2016%2C_D%C3%BCsseldorf.jpg/1024px-Audi_Q3_2.0_TFSI_quattro_S_line_%28Facelift%29_%E2%80%93_Frontansicht%2C_16._April_2016%2C_D%C3%BCsseldorf.jpg",
+        "url": "https://assets.nexuspointapex.co.uk/resize/1024/tenant_3fd34c9d-07c2-4832-9600-eb2699b8208d/media/189782/audi-q3-20-tdi-quattro-s-line-plus-5dr-s-tronic-nc16dpo-621c87797b2ec.jpg",
         "brand": "Audi",
         "model": "Q3",
         "variant": "S line",
@@ -1548,7 +1497,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Audi_S8_2012.JPG/1024px-Audi_S8_2012.JPG",
+        "url": "https://kocsi-media.hu/398/audi-s8-4-0-v8-tfsi-quattro-tiptronic-ic-magyarorszagi-full-extra-108510_405924_1xl.jpg",
         "brand": "Audi",
         "model": "S8",
         "variant": "Quattro",
@@ -1565,7 +1514,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2017_Audi_R8_V10_%28II%29_IMG_0037.jpg/1024px-2017_Audi_R8_V10_%28II%29_IMG_0037.jpg",
+        "url": "https://en.drivar.de/wp-6401f-content/uploads/2022/05/DSC0011-e1652097730714.jpg",
         "brand": "Audi",
         "model": "R8",
         "variant": "V10",
@@ -1582,7 +1531,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/2007_Audi_TT_2.0T_Quattro_Coupe_--_NHTSA.jpg/1024px-2007_Audi_TT_2.0T_Quattro_Coupe_--_NHTSA.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/2007_Audi_TT_%288J%29_3.2_quattro_coupe_%282015-11-11%29_01.jpg",
         "brand": "Audi",
         "model": "TT",
         "variant": "Quattro",
@@ -1599,7 +1548,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Audi_A6_3.0_TDI_quattro.JPG/1024px-Audi_A6_3.0_TDI_quattro.JPG",
+        "url": "https://hasznaltauto.medija.hu/330/18647034_1.jpg?v=1708615316",
         "brand": "Audi",
         "model": "A6",
         "variant": "TDI Quattro",
@@ -1616,7 +1565,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/2020_Audi_A3_Sportback_S_Line_35_TFSI_1.5_Front.jpg/1024px-2020_Audi_A3_Sportback_S_Line_35_TFSI_1.5_Front.jpg",
+        "url": "https://cdn.motor1.com/images/mgl/7MK77/s1/audi-a3-sportback-2020-im-test.webp",
         "brand": "Audi",
         "model": "A3",
         "variant": "Sportback",
@@ -1633,7 +1582,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/2019_Audi_A6_Saloon_S_Line_40_TDI_Automatic_2.0.jpg/1024px-2019_Audi_A6_Saloon_S_Line_40_TDI_Automatic_2.0.jpg",
+        "url": "https://images.clickdealer.co.uk/vehicles/5172/5172589/large1/119347111.jpg",
         "brand": "Audi",
         "model": "A6",
         "variant": "S Line",
@@ -1650,7 +1599,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/2019_Audi_Q5_Sport_50_TDI_Quattro_Automatic_3.0.jpg/1024px-2019_Audi_Q5_Sport_50_TDI_Quattro_Automatic_3.0.jpg",
+        "url": "https://editorial.pxcrush.net/carsales/general/editorial/190716_audi_q5_50tdi_02.jpg?width=1024&height=682",
         "brand": "Audi",
         "model": "Q5",
         "variant": "Sport",
@@ -1667,7 +1616,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2020_Audi_Q7_S_Line_TDi_Quattro_Automatic_3.0.jpg/1024px-2020_Audi_Q7_S_Line_TDi_Quattro_Automatic_3.0.jpg",
+        "url": "https://bluesky.cdn.imgeng.in/cogstock-images/FX20UVW_1.jpg?width=150",
         "brand": "Audi",
         "model": "Q7",
         "variant": "S Line",
@@ -1684,24 +1633,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2020_Audi_R8_V10_quattro_Facelift_IMG_2972.jpg/1024px-2020_Audi_R8_V10_quattro_Facelift_IMG_2972.jpg",
-        "brand": "Audi",
-        "model": "R8",
-        "variant": "V10",
-        "year": 2020,
-        "type": "coupe",
-        "condition": "used",
-        "capacity": 5204,
-        "performance": 620,
-        "km": 10000,
-        "fuel": "petrol",
-        "contact": "+36 30 567 5432",
-        "price": 60000000,
-        "transmission": "automatic",
-        "documents": true
-    },
-    {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/2020_Audi_TT_Roadster_S_Line_45_TFSI_2.0.jpg/1024px-2020_Audi_TT_Roadster_S_Line_45_TFSI_2.0.jpg",
+        "url": "https://m.atcdn.co.uk/a/media/w600/e732b780b51946cb8aa744316fc843b1.jpg",
         "brand": "Audi",
         "model": "TT",
         "variant": "Roadster",
@@ -1718,7 +1650,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2018_BMW_320d_SE_Automatic_2.0.jpg/1024px-2018_BMW_320d_SE_Automatic_2.0.jpg",
+        "url": "https://preview-assets-eu-01.kc-usercontent.com/3b3d460e-c5ae-0195-6b86-3ac7fb9d52db/ece62f05-9233-461d-9fbf-f190d25b6b6d/BMW%203%20Series%20%285%29.jpg?w=1920&q=70&fm=webp&lossless=0",
         "brand": "BMW",
         "model": "3 Series",
         "variant": "320d SE",
@@ -1735,7 +1667,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/BMW_E46_sedan_20071105_front.JPG/1024px-BMW_E46_sedan_20071105_front.JPG",
+        "url": "https://carsales.pxcrush.net/carsales/car/dealer/4f7qzpd4nu5k2gh0bctx9finx.jpg?pxc_method=gravityfill&pxc_bgtype=self&pxc_size=900%2C600",
         "brand": "BMW",
         "model": "3 Series",
         "variant": "318i",
@@ -1752,7 +1684,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2019_BMW_520d_M_Sport_Automatic_2.0.jpg/1024px-2019_BMW_520d_M_Sport_Automatic_2.0.jpg",
+        "url": "https://images.clickdealer.co.uk/vehicles/5358/5358883/large1/124283697.jpg",
         "brand": "BMW",
         "model": "5 Series",
         "variant": "520d M Sport",
@@ -1769,7 +1701,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2018_BMW_X5_xDrive30d_M_Sport_Automatic_3.0.jpg/1024px-2018_BMW_X5_xDrive30d_M_Sport_Automatic_3.0.jpg",
+        "url": "https://scontent.fbud4-1.fna.fbcdn.net/v/t1.6435-9/129013141_2792602560976795_6441187144082602724_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5fDpcAzA2E0Q7kNvgGyTwVn&_nc_ht=scontent.fbud4-1.fna&oh=00_AYByNke9G7jD79P8ieykr4CgSl8IapfNjXzHsjTxmgFHQw&oe=666F4437",
         "brand": "BMW",
         "model": "X5",
         "variant": "xDrive30d M Sport",
@@ -1786,7 +1718,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2010_BMW_750i_%28F01%29_--_03-13-2010.jpg/1024px-2010_BMW_750i_%28F01%29_--_03-13-2010.jpg",
+        "url": "https://www.cnet.com/a/img/resize/2d5103053c80b07846610d1f7791c4fe19f1f865/hub/2010/08/03/4fdfcec6-bb77-11e2-8a8e-0291187978f3/34112474-2-1333-OVR-1.jpg?auto=webp&width=1200",
         "brand": "BMW",
         "model": "7 Series",
         "variant": "750i",
@@ -1803,7 +1735,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/2016_BMW_730d_M_Sport_Automatic_3.0.jpg/1024px-2016_BMW_730d_M_Sport_Automatic_3.0.jpg",
+        "url": "https://i.ytimg.com/vi/4lxn3eMYTcE/maxresdefault.jpg",
         "brand": "BMW",
         "model": "7 Series",
         "variant": "730d M Sport",
@@ -1820,7 +1752,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/2020_BMW_X7_xDrive40i_Automatic_3.0_Front.jpg/1024px-2020_BMW_X7_xDrive40i_Automatic_3.0_Front.jpg",
+        "url": "https://www.motortrend.com/uploads/sites/5/2020/11/2020-BMW-X7-xDrive40i-3.jpg",
         "brand": "BMW",
         "model": "X7",
         "variant": "xDrive40i",
@@ -1837,7 +1769,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2020_BMW_M5_Competition_Automatic_4.4.jpg/1024px-2020_BMW_M5_Competition_Automatic_4.4.jpg",
+        "url": "https://bringatrailer.com/wp-content/uploads/2023/06/2020_bmw_m5-competition_img_6261-lowres-92986.jpg?fit=940%2C626",
         "brand": "BMW",
         "model": "M5",
         "variant": "Competition",
@@ -1854,14 +1786,14 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/2017_BMW_i3_94_Ah_%28I01%29.jpg/1024px-2017_BMW_i3_94_Ah_%28I01%29.jpg",
+        "url": "https://assets.adac.de/image/upload/v1/Autodatenbank/Fahrzeugbilder/im05142-1-bmw-i3.jpg",
         "brand": "BMW",
         "model": "i3",
         "variant": "94 Ah",
         "year": 2017,
         "type": "hatchback",
         "condition": "used",
-        "capacity": null,
+        "capacity": 0,
         "performance": 170,
         "km": 35000,
         "fuel": "electric",
@@ -1871,7 +1803,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2019_BMW_Z4_sDrive30i_M_Sport_Automatic_2.0.jpg/1024px-2019_BMW_Z4_sDrive30i_M_Sport_Automatic_2.0.jpg",
+        "url": "https://www.motortrend.com/uploads/sites/5/2019/03/2019-BMW-Z4-sDrive30i-24.jpg",
         "brand": "BMW",
         "model": "Z4",
         "variant": "sDrive30i M Sport",
@@ -1888,7 +1820,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2019_BMW_118i_M_Sport_Automatic_1.5.jpg/1024px-2019_BMW_118i_M_Sport_Automatic_1.5.jpg",
+        "url": "https://images.clickdealer.co.uk/vehicles/5202/5202230/large2/120135941.jpg",
         "brand": "BMW",
         "model": "1 Series",
         "variant": "118i M Sport",
@@ -1905,7 +1837,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2015_BMW_218d_M_Sport_Automatic_2.0.jpg/1024px-2015_BMW_218d_M_Sport_Automatic_2.0.jpg",
+        "url": "https://images.clickdealer.co.uk/vehicles/4659/4659129/large1/105891915.jpg",
         "brand": "BMW",
         "model": "2 Series",
         "variant": "218d M Sport",
@@ -1922,7 +1854,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2017_BMW_520i_M_Sport_Automatic_2.0.jpg/1024px-2017_BMW_520i_M_Sport_Automatic_2.0.jpg",
+        "url": "https://www.nationwide-cars.co.uk/media/range/BMW_5_Series_2017_zhfUFtV.jpg",
         "brand": "BMW",
         "model": "5 Series",
         "variant": "520i M Sport",
@@ -1939,7 +1871,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2018_BMW_640d_xDrive_Gran_Turismo_M_Sport_Automatic_3.0.jpg/1024px-2018_BMW_640d_xDrive_Gran_Turismo_M_Sport_Automatic_3.0.jpg",
+        "url": "https://www.autoaddikt.hu/kepek/bmw-640d-xdrive-grant-turismo-gt-teszt-2019-autoaddikt-50.jpg",
         "brand": "BMW",
         "model": "6 Series",
         "variant": "640d xDrive Gran Turismo",
@@ -1956,7 +1888,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/2018_BMW_X1_xDrive25i_M_Sport_Automatic_2.0.jpg/1024px-2018_BMW_X1_xDrive25i_M_Sport_Automatic_2.0.jpg",
+        "url": "https://kocsi-media.hu/48/bmw-x1-xdrive25i-m-sport-automata-28i-usa-led-2-zone-tempo-radar-kamera-keyless-pano-180502_412043_3xl.jpg",
         "brand": "BMW",
         "model": "X1",
         "variant": "xDrive25i M Sport",
@@ -1973,7 +1905,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/2020_BMW_X3_M40i_Automatic_3.0_Front.jpg/1024px-2020_BMW_X3_M40i_Automatic_3.0_Front.jpg",
+        "url": "https://img.sm360.ca/ir/w940/images/inventory/capitalsubaru-227/bmw/x3/2020/28475401/28475401_02869_8944256_1064189795.jpg",
         "brand": "BMW",
         "model": "X3",
         "variant": "M40i",
@@ -1990,7 +1922,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2019_BMW_Z4_M40i_Automatic_3.0.jpg/1024px-2019_BMW_Z4_M40i_Automatic_3.0.jpg",
+        "url": "https://hasznaltauto.medija.hu/15296/20392850_1.jpg?v=1708590609",
         "brand": "BMW",
         "model": "Z4",
         "variant": "M40i",
@@ -2007,7 +1939,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2019_Dacia_Duster_Comfort_TCe_115_1.3_Front.jpg/1024px-2019_Dacia_Duster_Comfort_TCe_115_1.3_Front.jpg",
+        "url": "https://kocsi-media.hu/564105/dacia-duster-1-3-tce-15th-celebration-dfull-comfort-music-114682_434753_7xl.jpg",
         "brand": "Dacia",
         "model": "Duster",
         "variant": "Comfort TCe 115",
@@ -2024,7 +1956,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Dacia_Sandero_Stepway_-_Mondial_de_l%27Automobile_de_Paris_2016_-_001.jpg/1024px-Dacia_Sandero_Stepway_-_Mondial_de_l%27Automobile_de_Paris_2016_-_001.jpg",
+        "url": "https://assets.choosemycar.com/vehicles/large/4367492_237_5289_vehicle-4367492-012-20221020-040716-3eaee12437b5fcb5016370d279415296b33d38555a4305979aeb2d2b88bb1005.jpg",
         "brand": "Dacia",
         "model": "Sandero",
         "variant": "Stepway",
@@ -2041,7 +1973,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/2020_Dacia_Lodgy_Stepway_Blue_dCi_115_1.5_Front.jpg/1024px-2020_Dacia_Lodgy_Stepway_Blue_dCi_115_1.5_Front.jpg",
+        "url": "https://assets.adac.de/image/upload/v1/Autodatenbank/Fahrzeugbilder/im06008-1-dacia-lodgy.jpg",
         "brand": "Dacia",
         "model": "Lodgy",
         "variant": "Stepway Blue dCi 115",
@@ -2058,7 +1990,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/2013_Dacia_Logan_Sedan_1.2_Front.jpg/1024px-2013_Dacia_Logan_Sedan_1.2_Front.jpg",
+        "url": "https://assets.adac.de/image/upload/v1/Autodatenbank/Fahrzeugbilder/im02959-1-dacia-logan-mcv.jpg",
         "brand": "Dacia",
         "model": "Logan",
         "variant": "1.2",
@@ -2075,24 +2007,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/2021_Dacia_Jogger_1.0_Eco-G_100_Comfort_Front.jpg/1024px-2021_Dacia_Jogger_1.0_Eco-G_100_Comfort_Front.jpg",
-        "brand": "Dacia",
-        "model": "Jogger",
-        "variant": "Eco-G 100 Comfort",
-        "year": 2021,
-        "type": "MPV",
-        "condition": "used",
-        "capacity": 999,
-        "performance": 100,
-        "km": 10000,
-        "fuel": "LPG",
-        "contact": "+36 30 567 8901",
-        "price": 6000000,
-        "transmission": "manual",
-        "documents": true
-    },
-    {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/2019_Dacia_Dokker_Stepway_Blue_dCi_95_1.5_Front.jpg/1024px-2019_Dacia_Dokker_Stepway_Blue_dCi_95_1.5_Front.jpg",
+        "url": "https://assets.adac.de/image/upload/v1/Autodatenbank/Fahrzeugbilder/im04922-1-dacia-dokker-sw.jpg",
         "brand": "Dacia",
         "model": "Dokker",
         "variant": "Stepway Blue dCi 95",
@@ -2109,7 +2024,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/2012_Dacia_Duster_1.5_dCi_110_4x2_Laureate_%2812584277163%29.jpg/1024px-2012_Dacia_Duster_1.5_dCi_110_4x2_Laureate_%2812584277163%29.jpg",
+        "url": "https://kocsi-media.hu/524852/dacia-duster-1-6-access-907314_391667_1t.jpg",
         "brand": "Dacia",
         "model": "Duster",
         "variant": "1.5 dCi 110",
@@ -2126,7 +2041,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/2020_Dacia_Sandero_Essential_SCe_75_1.0_Front.jpg/1024px-2020_Dacia_Sandero_Essential_SCe_75_1.0_Front.jpg",
+        "url": "https://vcache.arnoldclark.com/imageserver/AZRSNJD0W2-WUS1/800/f",
         "brand": "Dacia",
         "model": "Sandero",
         "variant": "Essential SCe 75",
@@ -2143,7 +2058,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/2015_Dacia_Dokker_Stepway_Blue_dCi_110_1.5_Front.jpg/1024px-2015_Dacia_Dokker_Stepway_Blue_dCi_110_1.5_Front.jpg",
+        "url": "https://assets.adac.de/image/upload/v1/Autodatenbank/Fahrzeugbilder/im03222-1-dacia-dokker-sw.jpg",
         "brand": "Dacia",
         "model": "Dokker",
         "variant": "Stepway Blue dCi 110",
@@ -2160,7 +2075,7 @@
         "documents": true
     },
     {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/2018_Dacia_Dokker_Stepway_1.5_dCi_110_Front.jpg/1024px-2018_Dacia_Dokker_Stepway_1.5_dCi_110_Front.jpg",
+        "url": "https://kocsi-media.hu/1004/dacia-dokker-1-5-dci-stepway-magyarorszagi-szervizkonyv-afa-s-515637_390514_1xl.jpg",
         "brand": "Dacia",
         "model": "Dokker",
         "variant": "Stepway 1.5 dCi 110",
@@ -2993,7 +2908,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://assets.adac.de/image/upload/v1/Autodatenbank/Fahrzeugbilder/im04526-1-mazda-mx5.jpg",
         "brand": "Mazda",
         "model": "MX-5",
         "variant": "1.5 Skyactiv-G",
@@ -3010,6 +2925,7 @@
         "documents": true
     },
     {
+        "url": "https://www.actualidadmotor.com/wp-content/uploads/2022/07/mazda-cx-5-2022-1.jpg",
         "brand": "Mazda",
         "model": "CX-5",
         "variant": "2.0 Skyactiv-G",
@@ -3026,6 +2942,7 @@
         "documents": true
     },
     {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Mazda_RX8.jpg",
         "brand": "Mazda",
         "model": "RX-8",
         "variant": "1.3 Wankel",
@@ -3042,6 +2959,7 @@
         "documents": true
     },
     {
+        "url": "https://vcache.arnoldclark.com/imageserver/AZRNNVD9W1-WUS1/800/f",
         "brand": "Mazda",
         "model": "3",
         "variant": "2.0 Skyactiv-G",
@@ -3058,6 +2976,7 @@
         "documents": true
     },
     {
+        "url": "https://kocsi-media.hu/1016/mazda-6-2-5i-skyactiv-exclusive-line-automata-2023-2-5-g-194hp-azonnal-viheto-30-os-kamera-adaptiv-led-507527_409458_1xl.jpg",
         "brand": "Mazda",
         "model": "6",
         "variant": "2.5 Skyactiv-G",
@@ -3074,6 +2993,7 @@
         "documents": true
     },
     {
+        "url": "https://assets.adac.de/image/upload/v1/Autodatenbank/Fahrzeugbilder/im05794-1-mazda-cx-30.jpg",
         "brand": "Mazda",
         "model": "CX-30",
         "variant": "2.0 Skyactiv-X",
@@ -3090,92 +3010,7 @@
         "documents": true
     },
     {
-        "url": "",
-        "brand": "Mazda",
-        "model": "CX-5",
-        "variant": "2.0 Skyactiv-G",
-        "year": 2022,
-        "type": "SUV",
-        "condition": "new",
-        "capacity": 1998,
-        "performance": 165,
-        "km": 0,
-        "fuel": "petrol",
-        "contact": "+36 30 234 5678",
-        "price": 18000000,
-        "transmission": "automatic",
-        "documents": true
-    },
-    {
-        "url": "",
-        "brand": "Mazda",
-        "model": "RX-8",
-        "variant": "1.3 Wankel",
-        "year": 2005,
-        "type": "coupe",
-        "condition": "used",
-        "capacity": 1308,
-        "performance": 231,
-        "km": 90000,
-        "fuel": "petrol",
-        "contact": "+36 30 345 6789",
-        "price": 2500000,
-        "transmission": "manual",
-        "documents": true
-    },
-    {
-        "url": "",
-        "brand": "Mazda",
-        "model": "3",
-        "variant": "2.0 Skyactiv-G",
-        "year": 2019,
-        "type": "hatchback",
-        "condition": "used",
-        "capacity": 1998,
-        "performance": 165,
-        "km": 45000,
-        "fuel": "petrol",
-        "contact": "+36 30 987 6543",
-        "price": 6500000,
-        "transmission": "automatic",
-        "documents": true
-    },
-    {
-        "url": "",
-        "brand": "Mazda",
-        "model": "6",
-        "variant": "2.5 Skyactiv-G",
-        "year": 2023,
-        "type": "sedan",
-        "condition": "new",
-        "capacity": 2488,
-        "performance": 186,
-        "km": 0,
-        "fuel": "petrol",
-        "contact": "+36 30 876 5432",
-        "price": 22000000,
-        "transmission": "automatic",
-        "documents": true
-    },
-    {
-        "url": "",
-        "brand": "Mazda",
-        "model": "CX-30",
-        "variant": "2.0 Skyactiv-X",
-        "year": 2020,
-        "type": "SUV",
-        "condition": "used",
-        "capacity": 1998,
-        "performance": 180,
-        "km": 28000,
-        "fuel": "petrol",
-        "contact": "+36 30 765 4321",
-        "price": 11000000,
-        "transmission": "automatic",
-        "documents": true
-    },
-    {
-        "url": "",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Mercedes-Benz_C_200_Avantgarde_%28W_205%29_%E2%80%93_Frontansicht%2C_26._April_2014%2C_D%C3%BCsseldorf.jpg/1200px-Mercedes-Benz_C_200_Avantgarde_%28W_205%29_%E2%80%93_Frontansicht%2C_26._April_2014%2C_D%C3%BCsseldorf.jpg",
         "brand": "Mercedes-Benz",
         "model": "C 200",
         "variant": "2.0 Turbo",
@@ -3192,7 +3027,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://www.icarsgroup.co.uk/wp-content/uploads/2022/04/ff3a45_3bf053f4dacc4ffe8dc05357aa9bf3eb_mv2_d_3178_2174_s_2-762x456.webp",
         "brand": "Mercedes-Benz",
         "model": "E 220",
         "variant": "2.0 CDI",
@@ -3209,7 +3044,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://www.friendlymotors.co.uk/wp-content/uploads/2021/04/0d0fd468b9d744b894164f7ab7efb6db-800x535.jpg",
         "brand": "Mercedes-Benz",
         "model": "S 500",
         "variant": "4.7 V8",
@@ -3226,7 +3061,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://www.aa.co.nz/assets/motoring/car-reviews/mercedes-benz/A-Class/A250-Sport/_resampled/FillWyIxMjgwIiwiNzIwIl0/DSC-1722.JPG?m=1533766243",
         "brand": "Mercedes-Benz",
         "model": "A 180",
         "variant": "1.6 Turbo",
@@ -3243,75 +3078,7 @@
         "documents": true
     },
     {
-        "url": "",
-        "brand": "Mercedes-Benz",
-        "model": "GLC 300",
-        "variant": "2.0 Turbo",
-        "year": 2021,
-        "type": "SUV",
-        "condition": "used",
-        "capacity": 1991,
-        "performance": 255,
-        "km": 30000,
-        "fuel": "petrol",
-        "contact": "+36 30 567 8901",
-        "price": 18000000,
-        "transmission": "automatic",
-        "documents": true
-    },
-    {
-        "url": "",
-        "brand": "Mercedes-Benz",
-        "model": "EQA 250",
-        "variant": "Electric",
-        "year": 2022,
-        "type": "SUV",
-        "condition": "new",
-        "capacity": 0,
-        "performance": 190,
-        "km": 0,
-        "fuel": "electric",
-        "contact": "+36 30 678 9012",
-        "price": 20000000,
-        "transmission": "automatic",
-        "documents": true
-    },
-    {
-        "url": "",
-        "brand": "Mercedes-Benz",
-        "model": "C 200",
-        "variant": "2.0 Turbo",
-        "year": 2018,
-        "type": "sedan",
-        "condition": "used",
-        "capacity": 1991,
-        "performance": 184,
-        "km": 60000,
-        "fuel": "petrol",
-        "contact": "+36 30 123 4567",
-        "price": 8500000,
-        "transmission": "automatic",
-        "documents": true
-    },
-    {
-        "url": "",
-        "brand": "Mercedes-Benz",
-        "model": "E 220",
-        "variant": "2.0 CDI",
-        "year": 2015,
-        "type": "sedan",
-        "condition": "used",
-        "capacity": 1950,
-        "performance": 170,
-        "km": 120000,
-        "fuel": "diesel",
-        "contact": "+36 30 234 5678",
-        "price": 5500000,
-        "transmission": "automatic",
-        "documents": true
-    },
-    {
-        "url": "",
+        "url": "https://www.truck1.hu/img/Egyeb_gepek_Mercedes_Benz_S_500_4Matic_L-xxl-37630/37630_1654865267491.jpg",
         "brand": "Mercedes-Benz",
         "model": "S 500",
         "variant": "4.7 V8",
@@ -3328,58 +3095,7 @@
         "documents": true
     },
     {
-        "url": "",
-        "brand": "Mercedes-Benz",
-        "model": "A 180",
-        "variant": "1.6 Turbo",
-        "year": 2016,
-        "type": "hatchback",
-        "condition": "used",
-        "capacity": 1595,
-        "performance": 122,
-        "km": 80000,
-        "fuel": "petrol",
-        "contact": "+36 30 456 7890",
-        "price": 4500000,
-        "transmission": "manual",
-        "documents": true
-    },
-    {
-        "url": "",
-        "brand": "Mercedes-Benz",
-        "model": "GLC 300",
-        "variant": "2.0 Turbo",
-        "year": 2021,
-        "type": "SUV",
-        "condition": "used",
-        "capacity": 1991,
-        "performance": 255,
-        "km": 30000,
-        "fuel": "petrol",
-        "contact": "+36 30 567 8901",
-        "price": 18000000,
-        "transmission": "automatic",
-        "documents": true
-    },
-    {
-        "url": "",
-        "brand": "Mercedes-Benz",
-        "model": "EQA 250",
-        "variant": "Electric",
-        "year": 2022,
-        "type": "SUV",
-        "condition": "new",
-        "capacity": 0,
-        "performance": 190,
-        "km": 0,
-        "fuel": "electric",
-        "contact": "+36 30 678 9012",
-        "price": 20000000,
-        "transmission": "automatic",
-        "documents": true
-    },
-    {
-        "url": "",
+        "url": "https://media.carsandbids.com/cdn-cgi/image/width=2080,quality=70/8864cd06c16cf34eddf5229bf01bf6bfafe9d766/photos/9ANXwEpv.wbLS2aTx7-(edit).jpg?t=163400338635",
         "brand": "Mercedes-Benz",
         "model": "SL 500",
         "variant": "5.0 V8",
@@ -3396,7 +3112,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://assets.adac.de/image/upload/v1/Autodatenbank/Fahrzeugbilder/im03186-1-mercedes-b-klasse.jpg",
         "brand": "Mercedes-Benz",
         "model": "B 180",
         "variant": "1.5 CDI",
@@ -3413,7 +3129,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://assets.adac.de/image/upload/v1/Autodatenbank/Fahrzeugbilder/im04721-1-mercedes-gla-klasse.jpg",
         "brand": "Mercedes-Benz",
         "model": "GLA 200",
         "variant": "1.6 Turbo",
@@ -3430,7 +3146,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://di-uploads-pod12.dealerinspire.com/driversautomart/uploads/2020/01/Altima-Drivers.jpg",
         "brand": "Nissan",
         "model": "Altima",
         "variant": "2.5 SL",
@@ -3447,24 +3163,7 @@
         "documents": true
     },
     {
-        "url": "",
-        "brand": "Nissan",
-        "model": "GT-R",
-        "variant": "3.8 V6",
-        "year": 2022,
-        "type": "coupe",
-        "condition": "new",
-        "capacity": 3799,
-        "performance": 565,
-        "km": 0,
-        "fuel": "petrol",
-        "contact": "+36 30 234 5678",
-        "price": 35000000,
-        "transmission": "automatic",
-        "documents": true
-    },
-    {
-        "url": "",
+        "url": "https://kocsi-media.hu/1002/nissan-qashqai-1-6-dci-tekna-713567_380805_1xl.jpg",
         "brand": "Nissan",
         "model": "Qashqai",
         "variant": "1.6 dCi",
@@ -3481,7 +3180,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://www.thedrive.com/content/2021/06/IMG_0971-2.jpeg?quality=85",
         "brand": "Nissan",
         "model": "Leaf",
         "variant": "Electric",
@@ -3498,7 +3197,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://file.joautok.hu/car-for-sale-images/500x375/auto/201298161jpg_v97tx0ki.jpeg",
         "brand": "Nissan",
         "model": "370Z",
         "variant": "3.7 V6",
@@ -3515,7 +3214,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://assets.adac.de/image/upload/v1/Autodatenbank/Fahrzeugbilder/im02185-1-nissan-pathfinder.jpg",
         "brand": "Nissan",
         "model": "Navara",
         "variant": "2.5 dCi",
@@ -3532,7 +3231,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://www.kinrossmotors.co.za/uploads/img_1927-2_th1.jpg",
         "brand": "Nissan",
         "model": "Patrol",
         "variant": "4.8 GRX",
@@ -3549,7 +3248,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://leasingland.hu/wp-content/uploads/2023/08/Nissan-tartos-berlet-autoberles-autoberlet-micra-juke-qashquai-xtrail-04.jpg",
         "brand": "Nissan",
         "model": "Micra",
         "variant": "1.0 IG-T",
@@ -3566,7 +3265,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://www.autokorkep.hu/wp-content/uploads/2021/07/nissan-x-trail-teszt-800x445.jpg",
         "brand": "Nissan",
         "model": "X-Trail",
         "variant": "2.0 DIG-T",
@@ -3583,7 +3282,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://media.ed.edmunds-media.com/nissan/murano/2017/oem/2017_nissan_murano_4dr-suv_platinum_fq_oem_1_1600.jpg",
         "brand": "Nissan",
         "model": "Murano",
         "variant": "3.5 V6",
@@ -3600,7 +3299,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://c0.carsie.ie/d43864c90df075c94489ddbe4ca5ffe9689a391f1f1d4ad2a3ef0f7f8ff1ec5b.jpg",
         "brand": "Opel",
         "model": "Astra",
         "variant": "1.4 Turbo",
@@ -3617,7 +3316,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://www.completecar.ie/img/galleries/4818/opel_insignia_elite_9.jpg",
         "brand": "Opel",
         "model": "Insignia",
         "variant": "2.0 CDTI",
@@ -3634,7 +3333,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://i.ytimg.com/vi/y7VZGbFhPTE/maxresdefault.jpg",
         "brand": "Opel",
         "model": "Corsa",
         "variant": "1.4",
@@ -3651,7 +3350,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://vezess2.p3k.hu/app/uploads/2017/08/43-700x467.jpg",
         "brand": "Opel",
         "model": "Mokka X",
         "variant": "1.6 CDTI",
@@ -3668,7 +3367,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://kocsi-media.hu/522839/opel-zafira-b-1-7-cdti-enjoy-a-h-monocab-448740_417903_1xl.jpg",
         "brand": "Opel",
         "model": "Zafira",
         "variant": "1.8",
@@ -3685,7 +3384,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://hasznaltauto.medija.hu/2126/20401482_1.jpg?v=1708768957",
         "brand": "Opel",
         "model": "Adam",
         "variant": "1.2",
@@ -3702,7 +3401,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://www.autonavigator.hu/wp-content/uploads/2012/01/68097_source.jpg",
         "brand": "Opel",
         "model": "Vectra",
         "variant": "1.9 CDTI",
@@ -3719,7 +3418,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://kocsi-media.hu/90/opel-meriva-1-4-selection-117-000km-ujszeru-magyar-111850_397966_1xl.jpg",
         "brand": "Opel",
         "model": "Meriva",
         "variant": "1.4",
@@ -3736,7 +3435,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://www.autonavigator.hu/wp-content/uploads/2018/01/204093_source.jpg",
         "brand": "Opel",
         "model": "Grandland X",
         "variant": "1.6 Turbo",
@@ -3753,7 +3452,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://assets.adac.de/image/upload/v1/Autodatenbank/Fahrzeugbilder/im02306-1-opel-antara.jpg",
         "brand": "Opel",
         "model": "Antara",
         "variant": "2.2 CDTI",
@@ -3770,7 +3469,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://rigotech.hu/chiptuning-referenciak-2/Peugeot-308-16-BlueHDI-100LE-2017-chiptuning-4967.jpg",
         "brand": "Peugeot",
         "model": "308",
         "variant": "1.6 BlueHDi",
@@ -3787,7 +3486,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg_hero_large/v1/editorial/Peugeot-508-Active-sedan-auto-2016-grey-%281%29.jpg",
         "brand": "Peugeot",
         "model": "508",
         "variant": "2.0 HDi",
@@ -3804,7 +3503,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://www.islandcarcentre.co.uk/wp-content/uploads/2000/01/IMG_5058-1024x768.jpg  ",
         "brand": "Peugeot",
         "model": "208",
         "variant": "1.2 PureTech",
@@ -3821,7 +3520,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://kocsi-media.hu/1030/peugeot-3008-1-6-bluehdi-limited-edition-746108_435481_1xl.jpg",
         "brand": "Peugeot",
         "model": "3008",
         "variant": "1.6 THP",
@@ -3838,7 +3537,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://hasznaltauto.medija.hu/5893/20676290_1.jpg?v=1715257626",
         "brand": "Peugeot",
         "model": "Partner",
         "variant": "1.6 HDi",
@@ -3855,7 +3554,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://kocsi-media.hu/500759/peugeot-206-1-4-hdi-generation-944041_9170_1xl.jpg",
         "brand": "Peugeot",
         "model": "206",
         "variant": "1.4",
@@ -3872,7 +3571,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://kep.cdn.indexvas.hu/1/0/1811/18111/181119/18111945_39ea09e354d93f2626251192a66fc177_wm.jpg",
         "brand": "Peugeot",
         "model": "5008",
         "variant": "2.0 BlueHDi",
@@ -3889,7 +3588,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://idd-katalogus.medija.hu/original/0506387.jpg",
         "brand": "Peugeot",
         "model": "207",
         "variant": "1.6 VTi",
@@ -3906,7 +3605,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://kocsi-media.hu/549750/peugeot-407-2-2-hdi-sportline-biturbo-limitalt-169327_370910_2xl.jpg",
         "brand": "Peugeot",
         "model": "407",
         "variant": "2.2 HDi",
@@ -3923,7 +3622,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://kocsi-media.hu/858/peugeot-rcz-1-6-thp-156-le-79-000km-friss-vizsga-azonnal-elviheto-217021_414289_3xl.jpg",
         "brand": "Peugeot",
         "model": "RCZ",
         "variant": "1.6 THP",
@@ -3940,24 +3639,7 @@
         "documents": true
     },
     {
-        "url": "",
-        "brand": "Porsche",
-        "model": "911 Carrera",
-        "variant": "3.0",
-        "year": 2018,
-        "type": "coupe",
-        "condition": "used",
-        "capacity": 2981,
-        "performance": 370,
-        "km": 20000,
-        "fuel": "petrol",
-        "contact": "+36 30 123 4567",
-        "price": 30000000,
-        "transmission": "automatic",
-        "documents": true
-    },
-    {
-        "url": "",
+        "url": "https://gjpopecars.com/wp-content/uploads/2022/02/IMG_5644-798x466.jpeg",
         "brand": "Porsche",
         "model": "Cayenne",
         "variant": "4.8 Turbo",
@@ -3974,7 +3656,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg_hero_large/v1/editorial/Porsche-panamera-turbo-2017-blue-%281%29.jpg",
         "brand": "Porsche",
         "model": "Panamera",
         "variant": "4.0 Turbo",
@@ -3991,7 +3673,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://performancedrive.com.au/wp-content/uploads/2019/08/2019-Porsche-Macan-1280x755.jpg",
         "brand": "Porsche",
         "model": "Macan",
         "variant": "2.0",
@@ -4008,7 +3690,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://prestigeandperformancecar.com/wp-content/uploads/Boxster-981-7-900x563.jpg",
         "brand": "Porsche",
         "model": "Boxster",
         "variant": "2.7",
@@ -4025,7 +3707,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2013_Porsche_Cayman_S_S-A_3.4_Rear.jpg/1200px-2013_Porsche_Cayman_S_S-A_3.4_Rear.jpg",
         "brand": "Porsche",
         "model": "Cayman",
         "variant": "3.4 S",
@@ -4042,7 +3724,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://images.clickdealer.co.uk/vehicles/5553/5553577/large1/130158365.jpg",
         "brand": "Porsche",
         "model": "911 Turbo",
         "variant": "3.8",
@@ -4059,7 +3741,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://rigotech.hu/chiptuning-referenciak-2/Renault-Clio-12-TCE-120ps-chiptuning-gmdEwbl-1151.jpg",
         "brand": "Renault",
         "model": "Clio",
         "variant": "1.2 TCe",
@@ -4076,7 +3758,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://autopult.hu/galeria/1611teszt/megane/megane_grandtour_15_medium.JPG",
         "brand": "Renault",
         "model": "Megane",
         "variant": "1.5 dCi",
@@ -4093,7 +3775,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://kocsi-media.hu/537479/renault-captur-0-9-tce-energy-zen-218206_348764_1xl.jpg",
         "brand": "Renault",
         "model": "Captur",
         "variant": "0.9 TCe",
@@ -4110,7 +3792,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://kocsi-media.hu/1030/renault-kadjar-1-6-dci-energy-zen-4x4-103107_390088_1xl.jpg",
         "brand": "Renault",
         "model": "Kadjar",
         "variant": "1.6 dCi",
@@ -4127,7 +3809,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://loero.hu/wp-content/ew_backup/2017/09/renault_talisman_teszt_2016_loero_36800.jpg",
         "brand": "Renault",
         "model": "Talisman",
         "variant": "1.6 dCi",
@@ -4144,7 +3826,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://kocsi-media.hu/551783/renault-scenic-1-5-dci-limited-edc-866902_383472_1xl.jpg",
         "brand": "Renault",
         "model": "Scenic",
         "variant": "1.5 dCi",
@@ -4161,7 +3843,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://kocsi-media.hu/553793/renault-twingo-1-0-sce-70-limited-euro6-987725_392113_1t.jpg",
         "brand": "Renault",
         "model": "Twingo",
         "variant": "0.9 TCe",
@@ -4178,7 +3860,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://vezess2.p3k.hu/app/uploads/2018/01/renault-koleos-teszt_2017_00002.jpg",
         "brand": "Renault",
         "model": "Koleos",
         "variant": "2.0 dCi",
@@ -4195,7 +3877,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://www.autonavigator.hu/wp-content/uploads/2015/01/142395_source.jpg",
         "brand": "Renault",
         "model": "Espace",
         "variant": "1.6 dCi",
@@ -4212,7 +3894,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg_hero_large/v1/editorial/2019-Renault-Zoe-hatchback-blue-James-Cleary-1001x565p-%281%29.jpg",
         "brand": "Renault",
         "model": "Zoe",
         "variant": "Electric",
@@ -4229,7 +3911,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://cdn.motor1.com/images/mgl/XEMbp/s1/skoda-octavia-14-tsi.jpg",
         "brand": "Skoda",
         "model": "Octavia",
         "variant": "1.4 TSI",
@@ -4246,7 +3928,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://www.autonavigator.hu/wp-content/uploads/2016/01/169748_source.jpg",
         "brand": "Skoda",
         "model": "Fabia",
         "variant": "1.0 MPI",
@@ -4263,7 +3945,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://i.ytimg.com/vi/rK1OSDFsJ3I/maxresdefault.jpg",
         "brand": "Skoda",
         "model": "Kodiaq",
         "variant": "2.0 TDI",
@@ -4280,7 +3962,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://assets.adac.de/image/upload/v1/Autodatenbank/Fahrzeugbilder/im05781-1-skoda-superb.jpg",
         "brand": "Skoda",
         "model": "Superb",
         "variant": "2.0 TSI",
@@ -4297,7 +3979,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://assets.adac.de/image/upload/v1/Autodatenbank/Fahrzeugbilder/im02830-1-skoda-rapid.jpg",
         "brand": "Skoda",
         "model": "Rapid",
         "variant": "1.6 TDI",
@@ -4314,7 +3996,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://prod.pictures.autoscout24.net/listing-images/d0cb92fe-e8e4-4ad8-8cda-3fbe6c810108_403fd0e6-fce5-4999-84f2-7516602a71c3.jpg/640x480.webp",
         "brand": "Skoda",
         "model": "Citigo",
         "variant": "1.0 MPI",
@@ -4331,7 +4013,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://formula.hu/uploads/Pictures/80/Aut%C3%B3/2020/DSC_5457%20(2)_resize.JPG",
         "brand": "Skoda",
         "model": "Scala",
         "variant": "1.5 TSI",
@@ -4348,7 +4030,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://autopult.hu/galeria/1406teszt/yeti/yeti_a6_medium.JPG",
         "brand": "Skoda",
         "model": "Yeti",
         "variant": "2.0 TDI",
@@ -4365,7 +4047,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://assets.adac.de/image/upload/v1/Autodatenbank/Fahrzeugbilder/im04996-1-skoda-karoq.jpg",
         "brand": "Skoda",
         "model": "Karoq",
         "variant": "1.6 TDI",
@@ -4382,7 +4064,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://autolenti.hu/pictures/3066_1",
         "brand": "Skoda",
         "model": "Roomster",
         "variant": "1.2 TSI",
@@ -4399,7 +4081,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://www.autoaddikt.hu/kepek/toyota-corolla-1-6-vvt-i-sedan-teszt-autoaddikt-4.jpg",
         "brand": "Toyota",
         "model": "Corolla",
         "variant": "1.6",
@@ -4416,7 +4098,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://kocsi-media.hu/554298/toyota-yaris-iii-1-5-hsd-trend-e-cvt-141979_394332_2xl.jpg",
         "brand": "Toyota",
         "model": "Yaris",
         "variant": "1.5",
@@ -4433,7 +4115,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://carsguide-res.cloudinary.com/image/upload/f_auto%2Cfl_lossy%2Cq_auto%2Ct_default/v1/editorial/toyota-rav4-gxl-black-pa-1001x565-%284%29.jpg",
         "brand": "Toyota",
         "model": "Rav4",
         "variant": "2.0",
@@ -4450,7 +4132,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://kocsi-media.hu/124/toyota-c-hr-1-8-hybrid-active-ulesfutessel-e-cvt-navi-tempomat-ul-futes-kamera-922424_391627_1xl.jpg",
         "brand": "Toyota",
         "model": "C-HR",
         "variant": "1.2",
@@ -4467,7 +4149,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://media.drive.com.au/obj/tx_rs:fit:1920:1080,q:50,w:1920/caradvice/private/741c0828db20715a1ca8a2501f54973f",
         "brand": "Toyota",
         "model": "Camry",
         "variant": "2.5",
@@ -4484,24 +4166,7 @@
         "documents": true
     },
     {
-        "url": "",
-        "brand": "Toyota",
-        "model": "Land Cruiser",
-        "variant": "4.0",
-        "year": 2014,
-        "type": "SUV",
-        "condition": "used",
-        "capacity": 3956,
-        "performance": 249,
-        "km": 120000,
-        "fuel": "petrol",
-        "contact": "+36 30 789 0123",
-        "price": 10000000,
-        "transmission": "automatic",
-        "documents": true
-    },
-    {
-        "url": "",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/2016_Toyota_HiLux_Invincible_D-4D_4WD_2.4_Front.jpg/800px-2016_Toyota_HiLux_Invincible_D-4D_4WD_2.4_Front.jpg",
         "brand": "Toyota",
         "model": "Hilux",
         "variant": "2.4",
@@ -4518,7 +4183,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://i.ebayimg.com/images/g/bTkAAOSwUtFlgTMT/s-l1200.jpg",
         "brand": "Toyota",
         "model": "Aygo",
         "variant": "1.0",
@@ -4535,7 +4200,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://assets.choosemycar.com/vehicles/large/5758072_547_0554_vehicle-5758072-001-20240330-161906-0a5fc94555ef98965e2ae963395f7c0a03e5afa5f57959b66a73cab5a429c39f.jpg",
         "brand": "Toyota",
         "model": "Proace",
         "variant": "2.0",
@@ -4552,7 +4217,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://kocsi-media.hu/114/volkswagen-golf-vii-1-6-tdi-bmt-trendline-dsg-erintokijelzo-tempomat-ulesfut-navi-esoszenzor-17felni-771101_431573_1xl.jpg",
         "brand": "Volkswagen",
         "model": "Golf",
         "variant": "1.4 TSI",
@@ -4569,7 +4234,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://kocsi-media.hu/112/volkswagen-golf-vii-comfortline-1-0-tsi-bmt-360-pontos-atvizsgalas-es-202752_432872_1t.jpg",
         "brand": "Volkswagen",
         "model": "Polo",
         "variant": "1.0 MPI",
@@ -4586,7 +4251,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://i.ytimg.com/vi/Y27UnFdHCOM/maxresdefault.jpg",
         "brand": "Volkswagen",
         "model": "Tiguan",
         "variant": "2.0 TDI",
@@ -4603,7 +4268,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://i.ytimg.com/vi/tdzNlfhZiys/maxresdefault.jpg",
         "brand": "Volkswagen",
         "model": "Passat",
         "variant": "2.0 TSI",
@@ -4620,7 +4285,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://kocsi-media.hu/272/volkswagen-up-e-up-hitel-csere-beszamitas-140892_438081_2xl.jpg",
         "brand": "Volkswagen",
         "model": "Up!",
         "variant": "1.0 MPI",
@@ -4637,7 +4302,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://kocsi-media.hu/114/volkswagen-touran-1-6-tdi-bmt-scr-comfortline-7-szemely-parkradar-tav-tart-tempomat-autohold-esoszenzor-multikormany-156193_438080_1xl.jpg",
         "brand": "Volkswagen",
         "model": "Touran",
         "variant": "1.6 TDI",
@@ -4654,7 +4319,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://www.autonavigator.hu/wp-content/uploads/2021/02/282210_source-1200x675.jpg",
         "brand": "Volkswagen",
         "model": "Arteon",
         "variant": "2.0 TSI",
@@ -4671,7 +4336,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://loero.hu/wp-content/ew_backup/2019/03/vw_t_roc_1_5_tsi_teszt_loero_39700.jpg",
         "brand": "Volkswagen",
         "model": "T-Roc",
         "variant": "1.5 TSI",
@@ -4688,7 +4353,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://img.jofogas.hu/hdimages/Volkswagen_Caddy_1_6_CR_TDI_Cserelheto___Friss____427472443909192.jpg",
         "brand": "Volkswagen",
         "model": "Caddy",
         "variant": "1.6 TDI",
@@ -4705,7 +4370,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/amarok_20160605_037.jpg",
         "brand": "Volkswagen",
         "model": "Amarok",
         "variant": "3.0 TDI",
@@ -4722,7 +4387,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://www.sk1cars.co.uk/wp-content/uploads/2021/01/IMG_7153-scaled.jpg",
         "brand": "Volkswagen",
         "model": "Golf",
         "variant": "1.4 TSI",
@@ -4739,7 +4404,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://kocsi-media.hu/880/volkswagen-polo-vi-1-0-mpi-trendline-ulesfutes-digit-klima-parkradar-garancia-102431_386587_1xl.jpg",
         "brand": "Volkswagen",
         "model": "Polo",
         "variant": "1.0 MPI",
@@ -4756,143 +4421,7 @@
         "documents": true
     },
     {
-        "url": "",
-        "brand": "Volkswagen",
-        "model": "Tiguan",
-        "variant": "2.0 TDI",
-        "year": 2018,
-        "type": "SUV",
-        "condition": "used",
-        "capacity": 1968,
-        "performance": 150,
-        "km": 40000,
-        "fuel": "diesel",
-        "contact": "+36 30 345 6789",
-        "price": 6000000,
-        "transmission": "automatic",
-        "documents": true
-    },
-    {
-        "url": "",
-        "brand": "Volkswagen",
-        "model": "Passat",
-        "variant": "2.0 TSI",
-        "year": 2019,
-        "type": "sedan",
-        "condition": "used",
-        "capacity": 1984,
-        "performance": 190,
-        "km": 20000,
-        "fuel": "petrol",
-        "contact": "+36 30 456 7890",
-        "price": 8000000,
-        "transmission": "automatic",
-        "documents": true
-    },
-    {
-        "url": "",
-        "brand": "Volkswagen",
-        "model": "Up!",
-        "variant": "1.0 MPI",
-        "year": 2015,
-        "type": "hatchback",
-        "condition": "used",
-        "capacity": 999,
-        "performance": 60,
-        "km": 90000,
-        "fuel": "petrol",
-        "contact": "+36 30 567 8901",
-        "price": 3500000,
-        "transmission": "manual",
-        "documents": true
-    },
-    {
-        "url": "",
-        "brand": "Volkswagen",
-        "model": "Touran",
-        "variant": "1.6 TDI",
-        "year": 2018,
-        "type": "MPV",
-        "condition": "used",
-        "capacity": 1598,
-        "performance": 115,
-        "km": 30000,
-        "fuel": "diesel",
-        "contact": "+36 30 678 9012",
-        "price": 4200000,
-        "transmission": "manual",
-        "documents": true
-    },
-    {
-        "url": "",
-        "brand": "Volkswagen",
-        "model": "Arteon",
-        "variant": "2.0 TSI",
-        "year": 2020,
-        "type": "sedan",
-        "condition": "used",
-        "capacity": 1984,
-        "performance": 272,
-        "km": 10000,
-        "fuel": "petrol",
-        "contact": "+36 30 789 0123",
-        "price": 11000000,
-        "transmission": "automatic",
-        "documents": true
-    },
-    {
-        "url": "",
-        "brand": "Volkswagen",
-        "model": "T-Roc",
-        "variant": "1.5 TSI",
-        "year": 2019,
-        "type": "SUV",
-        "condition": "used",
-        "capacity": 1498,
-        "performance": 150,
-        "km": 25000,
-        "fuel": "petrol",
-        "contact": "+36 30 890 1234",
-        "price": 7000000,
-        "transmission": "automatic",
-        "documents": true
-    },
-    {
-        "url": "",
-        "brand": "Volkswagen",
-        "model": "Caddy",
-        "variant": "1.6 TDI",
-        "year": 2017,
-        "type": "van",
-        "condition": "used",
-        "capacity": 1598,
-        "performance": 102,
-        "km": 40000,
-        "fuel": "diesel",
-        "contact": "+36 30 901 2345",
-        "price": 5000000,
-        "transmission": "manual",
-        "documents": true
-    },
-    {
-        "url": "",
-        "brand": "Volkswagen",
-        "model": "Amarok",
-        "variant": "3.0 TDI",
-        "year": 2016,
-        "type": "pickup",
-        "condition": "used",
-        "capacity": 2967,
-        "performance": 224,
-        "km": 80000,
-        "fuel": "diesel",
-        "contact": "+36 30 012 3456",
-        "price": 9000000,
-        "transmission": "automatic",
-        "documents": true
-    },
-    {
-        "url": "",
+        "url": "https://kocsi-media.hu/1030/volvo-s60-1-6-d-d-2-momentum-143785_394348_1xl.jpg",
         "brand": "Volvo",
         "model": "S60",
         "variant": "T4",
@@ -4909,7 +4438,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://kocsi-media.hu/85/volvo-v40-1-6-d-d2-kinetic-powershift-vegig-szervizelt-vezerles-cserelve-593678_381460_5xl.jpg",
         "brand": "Volvo",
         "model": "V40",
         "variant": "D2",
@@ -4926,7 +4455,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg_hero_large/v1/editorial/2018-Volvo-XC60-R-Design-T8-SUV-white-Richard-Berry-1200x800-%284%29.jpg",
         "brand": "Volvo",
         "model": "XC60",
         "variant": "D4",
@@ -4943,7 +4472,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://kocsi-media.hu/124/volvo-s90-2-0-d-d3-momentum-led-navi-bor-savtarto-tablafelismero-18-alu-509807_421791_1xl.jpg",
         "brand": "Volvo",
         "model": "S90",
         "variant": "D5",
@@ -4960,12 +4489,12 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2014/12/dscn8144.jpg",
         "brand": "Volvo",
         "model": "V60",
         "variant": "T5",
         "year": 2015,
-        "type": "estate",
+        "type": "wagon",
         "condition": "used",
         "capacity": 1969,
         "performance": 245,
@@ -4977,7 +4506,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://hasznaltauto.medija.hu/18482/20626435_1.jpg?v=1714044944",
         "brand": "Volvo",
         "model": "XC40",
         "variant": "T3",
@@ -4994,12 +4523,12 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://www.motortrend.com/uploads/sites/11/2020/09/2020-Volvo-V90-23.jpg",
         "brand": "Volvo",
         "model": "V90",
         "variant": "T6",
         "year": 2020,
-        "type": "estate",
+        "type": "wagon",
         "condition": "used",
         "capacity": 1969,
         "performance": 310,
@@ -5011,7 +4540,7 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://kocsi-media.hu/1030/volvo-s80-2-0-d-d4-momentum-geartronic-746558_394653_1xl.jpg",
         "brand": "Volvo",
         "model": "S80",
         "variant": "D3",
@@ -5028,12 +4557,12 @@
         "documents": true
     },
     {
-        "url": "",
+        "url": "https://kocsi-media.hu/85/volvo-v50-1-6-d-d2-business-friss-muszaki-hitelre-is-vasarnap-is-megtekintheto-458963_430000_1t.jpg",
         "brand": "Volvo",
         "model": "V50",
         "variant": "D4",
         "year": 2012,
-        "type": "estate",
+        "type": "wagon",
         "condition": "used",
         "capacity": 2400,
         "performance": 177,
