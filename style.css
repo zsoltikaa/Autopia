@@ -417,17 +417,11 @@ input:focus, input.form-control:focus, select:focus {
         border-bottom: 1px solid var(--bordercolor);
         text-align: center;
     }
-    .float-button {
-        width: 40px; /* A gomb szélességének beállítása */
-        height: 40px; /* A gomb magasságának beállítása */
+    float-button {
+        width: 11px; /* A gomb szélességének beállítása */
+        height: 11px; /* A gomb magasságának beállítása */
         line-height: 40px; /* A szöveg középre igazítása a gombon belül */
-        font-size: 16px; /* A szövegméret beállítása */
+        font-size: 8px; /* A szövegméret beállítása */
         padding: 0; /* Padding eltávolítása */
-    }
-}
-
-@media (max-width: 414px) { 
-    .pagination-container {
-        margin-bottom: 20px; 
     }
 }
