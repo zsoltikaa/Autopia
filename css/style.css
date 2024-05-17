@@ -418,5 +418,11 @@ input:focus, input.form-control:focus, select:focus {
         border-bottom: 1px solid var(--bordercolor);
         text-align: center;
     }
-    
+
+}
+
+@media (max-width: 414px) { /* Célozva az iPhone 13 és hasonló szélességű kijelzőkre */
+    .pagination-container {
+        margin-bottom: 20px; /* Kevesebb margin mobil nézetben */
+    }
 }
