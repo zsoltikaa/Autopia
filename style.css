@@ -424,6 +424,6 @@ input:focus, input.form-control:focus, select:focus {
 /* Mobil nézet */
 @media (max-width: 414px) { /* Célozva az iPhone 13 és hasonló szélességű kijelzőkre */
     .pagination-container {
-        margin-bottom: 20px; /* Kevesebb margin mobil nézetben */
+        margin-bottom: 40px; /* Kevesebb margin mobil nézetben */
     }
 }
