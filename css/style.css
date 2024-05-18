@@ -426,7 +426,42 @@ input:focus, input.form-control:focus, select:focus {
         padding: 0;
     }
 
-    .col-12.col-lg-4 {
-        flex: 1 1 50%;
+    .filterMenu {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 15px;
+        background-color: var(--filterbgcolor);
+    }
+
+    .mb-3 {
+        width: calc(50% - 5px); /* Két elem egymás mellé, 5px térközzel */
+        margin-bottom: 10px;
+    }
+
+    /* Az utolsó elemnek ne legyen jobb oldali térköze */
+    .mb-3:last-child {
+        margin-right: 0;
+    }
+
+    /* A selecteket teljes szélességben jelenítjük meg */
+    .mb-3 select,
+    .mb-3 input {
+        width: 100%; /* A mezők teljes szélességet kapnak */
+    }
+
+    /* A model mezőt külön beállítjuk */
+    #carModel {
+        width: 100%; /* Teljes szélességben */
+    }
+
+    /* A HP from és HP to mezők beállítása */
+    #performanceFrom, #performanceTo {
+        width: calc(50% - 5px); /* Azonos szélesség mint a year from és year to mezők */
+    }
+
+    /* A Year from és Year to mezők beállítása, ha még szükséges */
+    #yearFrom, #yearTo {
+        width: calc(50% - 5px); /* Azonos szélesség mint a HP from és HP to mezők */
     }
 }
