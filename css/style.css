@@ -417,7 +417,7 @@ input:focus, input.form-control:focus, select:focus {
         border-bottom: 1px solid var(--bordercolor);
         text-align: center;
     }
-    
+
     float-button {
         width: 11px;
         height: 11px; 
@@ -427,12 +427,12 @@ input:focus, input.form-control:focus, select:focus {
     }
 
     .inputs input {
-        width: 48%;
+        width: 30%;
         margin: 0 5px 0;
     }
 
     .inputs2 input {
-        width: 120px;
+        width: 50px;
         margin: 0 5px 0;
     }
 }
