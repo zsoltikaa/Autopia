@@ -28,11 +28,9 @@
     </nav>
 
     <div class="filterMenu">
-        
         <form>
-            
-            <div class="row">
-                <div class="col-12 col-lg-4 col-md-4 d-flex flex-column justify-content-center align-items-center">
+            <div class="row align-items-center"> <!-- Added align-items-center to row -->
+                <div class="col-12 col-lg-4 d-flex flex-column justify-content-center align-items-center">
                     <div class="mb-3">
                         <label for="carBrand">Brands</label>
                         <select class="form-select" aria-label="Brand" id="carBrand">
@@ -50,7 +48,7 @@
                         </select>
                     </div>
                 </div>
-                <div class="col-12 col-lg-4 col-md-4 d-flex flex-column justify-content-center align-items-center">
+                <div class="col-12 col-lg-4 d-flex flex-column justify-content-center align-items-center">
                     <div class="mb-3">
                         <label for="kmFrom">Mileage from</label>
                         <label for="kmTo" style="float: right;">Mileage to</label>
@@ -76,7 +74,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-lg-4 col-md-4 d-flex flex-column justify-content-center align-items-center">
+                <div class="col-12 col-lg-4 d-flex flex-column justify-content-center align-items-center">
                     <div class="mb-3">
                         <label for="carTransmission">Transmission</label>
                         <select class="form-select" aria-label="Transmission" id="carTransmission">
@@ -108,10 +106,10 @@
                     <button type="button" class="btn btn-dark" id="resetFilters">Reset filters</button>
                 </div>
             </div>
-            
         </form>
-        
+                
     </div>
+    
 
     <div id="floatButton" class="float-button">
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#ffde98" class="bi bi-arrow-up-circle-fill" viewBox="0 0 16 16">
