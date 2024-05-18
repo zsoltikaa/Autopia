@@ -417,7 +417,7 @@ input:focus, input.form-control:focus, select:focus {
         border-bottom: 1px solid var(--bordercolor);
         text-align: center;
     }
-
+    
     float-button {
         width: 11px;
         height: 11px; 
@@ -426,13 +426,7 @@ input:focus, input.form-control:focus, select:focus {
         padding: 0;
     }
 
-    .inputs input {
-        width: 30%;
-        margin: 0 5px 0;
-    }
-
-    .inputs2 input {
-        width: 50px;
-        margin: 0 5px 0;
+    .col-lg-4 {
+        flex: 1 1 50%; /* Az oszlopok egyenlő szélessége 50%-os arányban */
     }
 }
