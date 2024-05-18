@@ -92,23 +92,8 @@ body {
     border-top: 1px solid var(--bordercolor);
     border-bottom: 1px solid var(--bordercolor);
     padding: 15px;
-    animation-duration: 0.45s; /* Animáció időtartama */
-    animation-fill-mode: forwards; /* A végállapot megtartása */
 }
 
-.filterMenu.active {
-    display: block;
-    animation-name: slideDown; /* Használt animáció */
-}
-
-@keyframes slideDown {
-    0% {
-        transform: translateY(-100%); /* Kezdőpozíció: fent */
-    }
-    100% {
-        transform: translateY(0); /* Végpozíció: lent */
-    }
-}
 
 option {
     color: black;
