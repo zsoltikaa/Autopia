@@ -417,11 +417,22 @@ input:focus, input.form-control:focus, select:focus {
         border-bottom: 1px solid var(--bordercolor);
         text-align: center;
     }
+    
     float-button {
-        width: 11px; /* A gomb szélességének beállítása */
-        height: 11px; /* A gomb magasságának beállítása */
-        line-height: 40px; /* A szöveg középre igazítása a gombon belül */
-        font-size: 8px; /* A szövegméret beállítása */
-        padding: 0; /* Padding eltávolítása */
+        width: 11px;
+        height: 11px; 
+        line-height: 40px;
+        font-size: 8px;
+        padding: 0;
+    }
+
+    .inputs input {
+        width: 48%;
+        margin: 0 5px 0;
+    }
+
+    .inputs2 input {
+        width: 120px;
+        margin: 0 5px 0;
     }
 }
