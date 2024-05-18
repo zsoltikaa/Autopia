@@ -426,18 +426,18 @@ input:focus, input.form-control:focus, select:focus {
         font-size: 8px;
         padding: 0;
     }
-}
 
-.inputs input,
-.inputs2 input {
-    width: 145px;
-    margin: 0 5px;
-    float: left;
-    justify-content: space-between;
-}
+    .inputs input,
+    .inputs2 input {
+        width: 145px;
+        margin: 0 5px;
+        float: left;
+        justify-content: space-between;
+    }
 
-.inputs,
-.inputs2 {
-    display: flex;
-    justify-content: space-between;
+    .inputs,
+    .inputs2 {
+        display: flex;
+        justify-content: space-between;
+    }
 }
