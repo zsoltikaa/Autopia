@@ -92,6 +92,22 @@ body {
     border-top: 1px solid var(--bordercolor);
     border-bottom: 1px solid var(--bordercolor);
     padding: 15px;
+    animation-duration: 0.45s; /* Animáció időtartama */
+    animation-fill-mode: forwards; /* A végállapot megtartása */
+}
+
+.filterMenu.active {
+    display: block;
+    animation-name: slideDown; /* Használt animáció */
+}
+
+@keyframes slideDown {
+    0% {
+        transform: translateY(-100%); /* Kezdőpozíció: fent */
+    }
+    100% {
+        transform: translateY(0); /* Végpozíció: lent */
+    }
 }
 
 option {
@@ -398,7 +414,7 @@ input:focus, input.form-control:focus, select:focus {
     padding: 0 10px;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 764px) {
     body {
         font-size: 12px;
     }
