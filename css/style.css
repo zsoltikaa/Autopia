@@ -425,10 +425,8 @@ input:focus, input.form-control:focus, select:focus {
         font-size: 8px;
         padding: 0;
     }
-}
 
-@media (max-width: 428px) { /* Az iPhone 13 maximális kijelzőszélessége körülbelül 428px */
     .col-12.col-lg-4 {
-        flex: 1 1 50%; /* Az oszlopok egyenlő szélessége 50%-os arányban */
+        flex: 1 1 50%;
     }
 }
