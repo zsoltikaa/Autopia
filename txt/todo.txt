@@ -1,2 +1,3 @@
 - telefonos carRow animacio kijavitasa (click)
 - telefonos Reset Filters es a szuro gombokon az animacio kijavitasa (click)
+- preloader
