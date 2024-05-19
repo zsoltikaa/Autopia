@@ -440,4 +440,20 @@ input:focus, input.form-control:focus, select:focus {
         display: flex;
         justify-content: space-between;
     }
+
+    .carRow {
+        width: 95% !important;
+    }
+    .car-img {
+        border-radius: 20px 20px 0 0;
+        width: 100%;
+        height: auto;
+    }
+    .col-lg-3, .col-12, .col-3 {
+        width: 100%;
+        padding: 0;
+    }
+    .col-lg-3:not(:first-child) {
+        border-left: none;
+    }
 }
