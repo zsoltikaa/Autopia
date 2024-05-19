@@ -345,6 +345,7 @@ document.addEventListener("DOMContentLoaded", function() {
     let progress = 0;
     const progressBar = document.getElementById('progressBar');
     const preloader = document.getElementById('preloader');
+    const body = document.body;
 
     function incrementProgress() {
         if (progress < 100) {
@@ -353,7 +354,7 @@ document.addEventListener("DOMContentLoaded", function() {
             if (progress > 100) {
                 progress = 100;
             }
-            progressBar.style.width = progress + '%';
+            progressBar.style.height = progress + '%';
 
             // Véletlenszerű időtartamot állítunk be a következő frissítésre
             setTimeout(incrementProgress, Math.floor(Math.random() * 300) + 100);
@@ -361,6 +362,8 @@ document.addEventListener("DOMContentLoaded", function() {
             preloader.style.opacity = 0;
             setTimeout(() => {
                 preloader.style.display = 'none';
+                body.style.display = 'block'; // Az oldal tartalmának megjelenítése
+                body.classList.add('fade-in'); // Fade-in animáció hozzáadása
             }, 500);
         }
     }
