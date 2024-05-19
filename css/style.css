@@ -516,7 +516,6 @@ input:focus, input.form-control:focus, select:focus {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
     z-index: 9999;
 }
 
@@ -532,11 +531,5 @@ input:focus, input.form-control:focus, select:focus {
     width: 0;
     background: #3498db;
     border-radius: 10px;
-    transition: width 0.3s;
-}
-
-#progressText {
-    margin-top: 10px;
-    font-size: 18px;
-    color: #000000;
+    transition: width 0.3s ease-in-out;
 }
