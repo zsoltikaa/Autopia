@@ -344,22 +344,28 @@ document.querySelectorAll('.hover-effect').forEach(button => {
 document.addEventListener("DOMContentLoaded", function() {
     let progress = 0;
     const progressBar = document.getElementById('progressBar');
-    const progressText = document.getElementById('progressText');
     const preloader = document.getElementById('preloader');
 
-    const incrementProgress = setInterval(() => {
+    function incrementProgress() {
         if (progress < 100) {
-            progress++;
+            // Véletlenszerűen növeljük a progress értékét
+            progress += Math.floor(Math.random() * 10) + 1;
+            if (progress > 100) {
+                progress = 100;
+            }
             progressBar.style.width = progress + '%';
-            progressText.textContent = progress + '%';
+
+            // Véletlenszerű időtartamot állítunk be a következő frissítésre
+            setTimeout(incrementProgress, Math.floor(Math.random() * 300) + 100);
         } else {
-            clearInterval(incrementProgress);
             preloader.style.opacity = 0;
             setTimeout(() => {
                 preloader.style.display = 'none';
             }, 500);
         }
-    }, 30);  // Adjust the interval as needed
+    }
+
+    incrementProgress();
 });
 
 checkFiltersState();
