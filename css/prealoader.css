@@ -16,6 +16,11 @@
     background-color: #f3f3f3;
     border-radius: 25px;
     overflow: hidden;
+    transition: 2s ease-in-out;
+}
+
+.hidden {
+    opacity: 0;
 }
 
 .progress-bar {
@@ -26,4 +31,3 @@
     transition: width 0.5s ease;
     box-shadow: 0 0 10px rgba(255, 165, 0, 0.5);
 }
-

@@ -1,2 +1,1 @@
 - preloader fade megoldasa
-- lapozo kattintasanal a kek border

@@ -1,6 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
     let progressBar = document.getElementById('progress-bar');
-    let content = document.querySelector('.content');
     let width = 0;
 
     function simulateLoading() {
@@ -9,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
             document.getElementById('preloader').style.display = 'none';
             content.style.opacity = '1';
         } else {
-            width += 8;
+            width += 10;
             progressBar.style.width = width + '%';
         }
     }
