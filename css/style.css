@@ -329,7 +329,7 @@ label.form-label {
     font-style: italic;
 }  
 
-input:focus, input.form-control:focus, select:focus, a:focus {
+input:focus, input.form-control:focus, select:focus, a:focus:not(.noborder) {
     outline: var(--textcolor) !important;
     outline-width: 50 !important;
     box-shadow: 1px 1px 6px var(--textcolor), -1px -1px 6px var(--textcolor),
