@@ -40,7 +40,7 @@ body {
 }
 
 .carRow {
-    transition: transform 0.3s ease;
+    transition: transform 0.3s ease-in-out;
     background-color: var(--navbarbgcolor);
     -webkit-touch-callout: none;
     -webkit-user-select: none;
@@ -421,7 +421,7 @@ input:focus, input.form-control:focus, select:focus, a:focus:not(.noborder) {
     width: 10px;
     height: 10px;
     border-radius: 50%;
-    background-color: rgba(255, 255, 255, 0.3); /* Módosítás: áttetszőség 0.3 */
+    background-color: rgba(255, 255, 255, 0.3);
     animation: particleMove 1.5s linear infinite;
 }
 
@@ -503,5 +503,34 @@ input:focus, input.form-control:focus, select:focus, a:focus:not(.noborder) {
     }
     .col-lg-3:not(:first-child) {
         border-left: none;
+    }
+}
+
+.logo-animation {
+    animation: spin 10s linear infinite;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+.filter-animation {
+    animation: bounce 1s ease infinite alternate;
+}
+
+@keyframes bounce {
+    from {
+        transform: translateY(0);
+    }
+    to {
+        transform: translateY(-3px);
     }
 }
