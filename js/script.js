@@ -5,6 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
     setupEventListeners();
 });
 
+
 function setupEventListeners() {
     const filters = document.querySelectorAll("#carBrand, #carModel, #kmFrom, #kmTo, #priceFrom, #priceTo, #carTransmission, #carFuel, #carType, #performanceFrom, #performanceTo, #yearFrom, #yearTo");
 
