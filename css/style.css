@@ -534,3 +534,8 @@ input:focus, input.form-control:focus, select:focus, a:focus:not(.noborder) {
         transform: translateY(-3px);
     }
 }
+
+.highlight {
+    font-style: italic;
+    font-weight: bolder
+}
