@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 function formatKilometers(kilometers) {
-    return kilometers.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + " km";
+    return kilometers.toLocaleString('hu-HU', { minimumFractionDigits: 0, maximumFractionDigits: 0 });
 }
 
 function setupEventListeners() {
