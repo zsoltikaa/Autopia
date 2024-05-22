@@ -164,7 +164,7 @@ function renderCars(cars, currentPage = 1, carsPerPage = 10) {
                 <p>Fuel Type: <span class="highlight">${data.fuel}</span></p>
             </div>
             <div class="col-12 col-lg-3 d-flex flex-column justify-content-center align-items-center">
-                <p>Mileage: <span class="highlight">${data.km} km</span></p>
+                <p>Mileage: <span class="highlight">${formatKilometers(data.km)} km</span></p>
                 <p>Valid Hungarian License: <span class="highlight">${data.documents ? "yes" : "no"}</span></p>
                 <p>Contact: <span class="highlight">${data.contact}</span></p>
                 <p class="text-glow">Price: <span class="highlight text-glow">${formatter.format(data.price)}</span></p>
