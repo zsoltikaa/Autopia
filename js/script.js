@@ -6,8 +6,17 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 function formatKilometers(kilometers) {
+    // Format the number according to Hungarian locale without decimal points
+    const formattedNumber = kilometers.toLocaleString('hu-HU', { minimumFractionDigits: 0, maximumFractionDigits: 0 });
+    
+    // Return the formatted number with "km km" appended
+    return `${formattedNumber};
+
+/*
+function formatKilometers(kilometers) {
     return kilometers.toLocaleString('hu-HU', { minimumFractionDigits: 0, maximumFractionDigits: 0 });
 }
+*/
 
 function setupEventListeners() {
     const inputFilters = document.querySelectorAll("#carModel, #kmFrom, #kmTo, #priceFrom, #priceTo, #yearFrom, #yearTo, #performanceFrom, #performanceTo");
