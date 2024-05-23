@@ -23,7 +23,7 @@ Welcome to **Autopia** - your ultimate car dealership website! This project aims
 
 ## Demo
 
-Check out the live demo of Autopia [here](#).
+Check out the live demo of Autopia [here](http://zsoltikaa.github.io/Autopia).
 
 ## Installation
 
