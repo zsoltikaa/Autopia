@@ -5,16 +5,12 @@ document.addEventListener("DOMContentLoaded", () => {
     setupEventListeners();
 });
 
-function formatKilometers(kilometers) {
-    return kilometers.toLocaleString('en-US', { minimumFractionDigits: 0, maximumFractionDigits: 0 }).replace(',', ' ');
-}
-
 function setupEventListeners() {
-    const inputFilters = document.querySelectorAll("#carModel, #kmFrom, #kmTo, #priceFrom, #priceTo, #yearFrom, #yearTo, #performanceFrom, #performanceTo");
+    const filters = document.querySelectorAll("#carBrand, #carModel, #kmFrom, #kmTo, #priceFrom, #priceTo, #carTransmission, #carFuel, #carType, #performanceFrom, #performanceTo, #yearFrom, #yearTo");
 
-    inputFilters.forEach(inputFilter => {
-        inputFilter.addEventListener("input", function(){
-            applyFilters(); 
+    filters.forEach(filter => {
+        filter.addEventListener("change", function(){
+            applyFilters();
             checkFiltersState();
         });
     });
@@ -153,21 +149,21 @@ function renderCars(cars, currentPage = 1, carsPerPage = 10) {
             </div>
             <div class="col-12 col-lg-3 d-flex flex-column justify-content-center align-items-center">
                 <p class="title">${data.brand} ${data.model} ${data.variant}</p>
-                <p>Year: <span class="highlight">${data.year}</span></p>
-                <p>Type: <span class="highlight">${data.type}</span></p>
-                <p>Condition: <span class="highlight">${data.condition}</span></p>
+                <p>Year: ${data.year}</p>
+                <p>Type: ${data.type}</p>
+                <p>Condition: ${data.condition}</p>
             </div>
             <div class="col-12 col-lg-3 d-flex flex-column justify-content-center align-items-center">
-                <p>Performance: <span class="highlight">${data.performance} HP</span></p>
-                <p>Engine Capacity: <span class="highlight">${data.capacity} cc</span></p>
-                <p>Transmission: <span class="highlight">${data.transmission}</span></p>
-                <p>Fuel Type: <span class="highlight">${data.fuel}</span></p>
+                <p>Performance: ${data.performance} HP</p>
+                <p>Engine Capacity: ${data.capacity} cc</p>
+                <p>Transmission: ${data.transmission}</p>
+                <p>Fuel Type: ${data.fuel}</p>
             </div>
             <div class="col-12 col-lg-3 d-flex flex-column justify-content-center align-items-center">
-                <p>Mileage: <span class="highlight">${formatKilometers(data.km)} km</span></p>
-                <p>Valid Hungarian License: <span class="highlight">${data.documents ? "yes" : "no"}</span></p>
-                <p>Contact: <span class="highlight">${data.contact}</span></p>
-                <p class="text-glow">Price: <span class="highlight text-glow">${formatter.format(data.price)}</span></p>
+                <p>Mileage: ${data.km} km</p>
+                <p>Valid Hungarian License: ${data.documents ? "yes" : "no"}</p>
+                <p>Contact: ${data.contact}</p>
+                <p class="text-glow">Price: ${formatter.format(data.price)}</p>
             </div>
         </div>
         `;

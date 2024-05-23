@@ -1,0 +1,8 @@
+light:
+https://colorhunt.co/palette/fff2d7ffe0b5f8c794d8ae7e
+
+dark:
+https://colorhunt.co/palette/27374d526d829db2bfdde6ed
+
+uiverse:
+https://uiverse.io/
