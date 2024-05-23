@@ -73,7 +73,7 @@ Contributions are welcome! Please follow these steps:
 
 ## Contact
 
-If you have any questions, feel free to contact me:
+If you have any questions, feel free to contact us:
 
 - **GitHub:** [zsoltikaa](https://github.com/zsoltikaa)
 - **GitHub:** [immortalized](https://github.com/immortalized)
