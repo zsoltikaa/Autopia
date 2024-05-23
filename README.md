@@ -3,6 +3,10 @@
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
+![GitHub issues](https://img.shields.io/github/issues/yourusername/autopia)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/autopia)
+![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/autopia)
+![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/autopia?style=social)
 
 Welcome to **Autopia** - your ultimate car dealership website! This project aims to provide a sleek and intuitive interface for users to browse and filter cars based on various criteria. Built with modern web technologies, Autopia ensures a smooth and visually appealing user experience.
 
