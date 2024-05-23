@@ -1,4 +1,4 @@
-# Autopia
+# **Autopia**
 
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
