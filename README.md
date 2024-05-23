@@ -10,7 +10,6 @@ Welcome to **Autopia** - your ultimate car dealership website! This project aims
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
@@ -30,7 +29,7 @@ Check out the live demo of Autopia [here](#).
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/autopia.git
+    git clone https://github.com/zsoltikaa/autopia.git
     ```
 
 2. **Navigate to the project directory:**
@@ -64,10 +63,6 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes (`git commit -m 'Add your feature'`).
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
