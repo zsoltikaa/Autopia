@@ -1,12 +1,9 @@
 # Autopia
 
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 ![GitHub issues](https://img.shields.io/github/issues/zsoltikaa/Autopia)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/zsoltikaa/Autopia)
 ![GitHub last commit](https://img.shields.io/github/last-commit/zsoltikaa/Autopia)
-![GitHub Repo stars](https://img.shields.io/github/stars/zsoltikaa/Autopia?style=social)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
