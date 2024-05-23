@@ -1,8 +1,6 @@
 # *Autopia*
 
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
-![GitHub issues](https://img.shields.io/github/issues/zsoltikaa/Autopia)
 ![GitHub last commit](https://img.shields.io/github/last-commit/zsoltikaa/Autopia)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
