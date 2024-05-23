@@ -6,7 +6,6 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![CSHARP](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=csharp)
 
 Welcome to **Autopia** - your ultimate car dealership website! This project aims to provide a sleek and intuitive interface for users to browse and filter cars based on various criteria. Built with modern web technologies, Autopia ensures a smooth and visually appealing user experience.
 
