@@ -17,6 +17,23 @@
         "documents": true
     },
     {
+        "url": "https://www.evansthecar.co.uk/files/8116/1728/8512/500_1.jpg",
+        "brand": "Fiat",
+        "model": "500",
+        "variant": "1.2 Lounge",
+        "year": 2016,
+        "type": "",
+        "condition": "used",
+        "capacity": 1242,
+        "performance": 70,
+        "km": 62560,
+        "fuel": "petrol",
+        "contact": "+36 30 756 9816",
+        "price": 4000000,
+        "transmission": "manual",
+        "documents": true
+    },
+    {
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/2022_Avatr_11_%28front%29.jpg",
         "brand": "AVATR",
         "model": "11",
